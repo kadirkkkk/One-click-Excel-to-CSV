@@ -1,5 +1,5 @@
 {
-    "pageName": "Sheet1",
+    "pageName": "Responses",
     "extension": ".csv",
-    "delimiter": ";"
+    "delimiter": "	"
 }
